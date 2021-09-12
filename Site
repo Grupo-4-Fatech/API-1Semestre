@@ -9,9 +9,35 @@
 
     <!-- Load icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <title>Home</title>
+     <style>
+        .p1 {
+        text-align: center;
+        }
 
+        .p2{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .p3{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .box {
+        float: left;
+        width: 33.33%;
+        padding: 10px;
+        }
 
-    <title>Home</title>
+        .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+        }
+
+      </style>  
 
 
 
@@ -43,7 +69,7 @@
                 <a href="#" class="w3-bar-item w3-button">Desesnvolvimento de software multiplataforma</a>
                 <a href="#" class="w3-bar-item w3-button">Logistica</a>
                 <a href="#" class="w3-bar-item w3-button">Manufatura avançada</a>
-                <a href="#" class="w3-bar-item w3-button">Manufatura de aeronaves</a>
+                <a href="#" class="w3-bar-item w3-button">Manutenção de aeronaves</a>
             </div>
         </div>
         <a href="#" class="w3-bar-item w3-button">Contatos</a>
@@ -53,9 +79,33 @@
         </form>
 
     </div>
+ 
+    <h1>
+        <p class="p1"><strong>Introdução</strong></p>
+    </h1>
+    <h3>
+        <div class="p2">Site realizado para a implementação de trabalhos realizados pelos alunos da Fatec de São José dos Campos.</div>
+    </h3>
+  
+   <h3>
+       <div class="p3">Cursos que estão disponibilizados os trabalhos:</div>
+    
+   </h3>
+   
+   <div class="clearfix">
+    <div class="box" >
+    </div>
+    <div class="box" >
+    <p><img src="imagens/Webp.net-gifmaker.gif" alt=""style=width:700px;height:700px;></p>
+    </div>
+    <div class="box" >
+    </div>
+  </div>
+   
     
 
 
 </body>
+
 
 </html>
