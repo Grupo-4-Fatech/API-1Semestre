@@ -36,6 +36,7 @@
 
 
      </style>
+    </head>
 
     <body background="/img/fundo.png" style="background-color: rgba(106, 116, 119, 0.205);">
     <table border='0px' width='900px' align='center'>
@@ -62,7 +63,7 @@
                 <a href="Manutenção.html" class="w3-bar-item w3-button">Manutenção de aeronaves</a>
             </div>
         </div>
-        <a href="#" class="w3-bar-item w3-button">Contatos</a>
+        <a href="Contatos.html" class="w3-bar-item w3-button">Contatos</a>
         <form class="example" action="action_page.php">
             <input type="text" placeholder="Search.." name="search"  >
             <button type="submit"><i class="fa fa-search"></i></button >
@@ -108,3 +109,5 @@
         <div class="w3-bar w3-border" >
             <a href="#" class="w3-bar-item w3-button w3-red">Outros trabalhos</a>
         </div>
+    </body>
+    </html>
