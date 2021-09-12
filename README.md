@@ -6,8 +6,13 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ## Proposta do projeto
 Desenvolver um sistema para automatizar o processo de raspagem dos links githubs dos APIs (Aprendizagem por Projetos Integrados) do site Fatec São José dos Campos, visando a 
 disponibilização desses links através de uma página Web
+## Metodologia
+<ul>
+	<li> Metodologia Ágil: SCRUM </li>
+<ul>
+![metodologia](https://user-images.githubusercontent.com/88987612/133004059-03125520-fcf6-47d1-b59e-e0b968e01bbc.png)
 ## Alunos
-https://user-images.githubusercontent.com/67170978/133000065-f00877f7-f3fa-476d-b6ab-193fccf0c68f.mp4
+https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 
 
 
