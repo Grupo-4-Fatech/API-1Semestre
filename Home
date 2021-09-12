@@ -67,9 +67,9 @@
                 <a href="#" class="w3-bar-item w3-button">Análise e desesnvolvimento de sistemas</a>
                 <a href="#" class="w3-bar-item w3-button">Banco de dados </a>
                 <a href="#" class="w3-bar-item w3-button">Desesnvolvimento de software multiplataforma</a>
-                <a href="#" class="w3-bar-item w3-button">Logistica</a>
-                <a href="#" class="w3-bar-item w3-button">Manufatura avançada</a>
-                <a href="#" class="w3-bar-item w3-button">Manutenção de aeronaves</a>
+                <a href="logistica.html" class="w3-bar-item w3-button">Logistica</a>
+                <a href="Manufatura.html" class="w3-bar-item w3-button">Manufatura avançada</a>
+                <a href="Manutenção.html" class="w3-bar-item w3-button">Manutenção de aeronaves</a>
             </div>
         </div>
         <a href="#" class="w3-bar-item w3-button">Contatos</a>
