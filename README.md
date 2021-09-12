@@ -8,6 +8,7 @@ Desenvolver um sistema para automatizar o processo de raspagem dos links githubs
 disponibilização desses links através de uma página Web
 ## Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
+![metodologia](https://user-images.githubusercontent.com/88987612/133004613-31ba4470-cb5c-440c-9c35-87fce57f0cad.png)
 
 ## Alunos
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
