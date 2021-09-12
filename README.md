@@ -10,6 +10,8 @@ disponibilização desses links através de uma página Web
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
 https://user-images.githubusercontent.com/88987612/133004710-ee5e39bd-0b0d-422d-babb-5ddfd1f6f81e.jpg
 
+![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
+
 ## Alunos
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 
