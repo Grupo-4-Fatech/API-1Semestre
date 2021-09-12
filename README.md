@@ -7,6 +7,8 @@ Olá,Muito prazer!Nós somos o grupo Fatechum time de alunos do 1° semestre do 
 Desenvolver um sistema para automatizar o processo de raspagem dos links githubs dos APIs (Aprendizagem por Projetos Integrados) do site Fatec São José dos Campos, visando a 
 disponibilização desses links através de uma página Web
 ## Alunos
-https://user-images.githubusercontent.com/67170978/133000046-15809e12-4992-4874-bc65-bca5fecd2836.mp4
+https://user-images.githubusercontent.com/67170978/133000065-f00877f7-f3fa-476d-b6ab-193fccf0c68f.mp4
+
+
 
 
