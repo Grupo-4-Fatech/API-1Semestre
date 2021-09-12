@@ -87,13 +87,40 @@
   
    <div class="clearfix">
     <div class="box" >
+        <figure>
+            <img src="imagens/andre.jfif" alt=""style=width:300px;height:300px;>
+            <figcaption>André Ribeiro</figcaption>
+        </figure>
     </div>
     <div class="box" >
-    <p><img src="imagens/Gabriel.jpg" alt=""style=width:700px;height:700px;></p>
-    <figcaption>Gabriel Coutinho</figcaption>
-    </figure>
+        <figure>
+            <img src="imagens/antonio 2.jfif" alt=""style=width:300px;height:300px;>
+            <figcaption>Antônio Barbosa</figcaption>
+        </figure>
     </div>
     <div class="box" >
+        <figure>
+            <img src="imagens/bruna.jfif" alt=""style=width:300px;height:300px;>
+            <figcaption>Bruna Dias</figcaption>
+        </figure>
+    </div>
+    <div class="box" >
+        <figure>
+            <img src="imagens/dionisio.jfif" alt=""style=width:300px;height:300px;>
+            <figcaption>Dionisio Leâo</figcaption>
+        </figure>
+    </div>
+    <div class="box" >
+        <figure>
+            <img src="imagens/Gabriel.jpg" alt=""style=width:300px;height:300px;>
+            <figcaption>Gabriel Coutinho</figcaption>
+        </figure>
+    </div>
+    <div class="box" >
+        <figure>
+            <img src="imagens/gustavo.jfif" alt=""style=width:300px;height:300px;>
+            <figcaption>Gustavo da Silva</figcaption>
+        </figure>
     </div>
   </div>
 
