@@ -1,0 +1,4 @@
+backend/
+database/__pycache__/
+resources/__pycache__/
+*.json
