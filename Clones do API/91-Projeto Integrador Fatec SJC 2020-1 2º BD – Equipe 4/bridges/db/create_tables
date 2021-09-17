@@ -1,0 +1,28 @@
+CREATE TABLE 001fun (
+id_fun SMALLINT(4) NOT NULL UNIQUE AUTO_INCREMENT PRIMARY KEY,
+nome varchar(50) NOT NULL,
+limite_horas_mes decimal(6,2) NOT NULL
+)
+
+CREATE TABLE 002prj (
+id_pro SMALLINT(4) NOT NULL UNIQUE AUTO_INCREMENT PRIMARY KEY,
+nome_pro varchar(50) NOT NULL
+)
+
+CREATE TABLE 003tar (
+id_tar SMALLINT(4) NOT NULL UNIQUE AUTO_INCREMENT PRIMARY KEY,
+id_pro SMALLINT(4)	NOT NULL UNIQUE AUTO_INCREMENT PRIMARY KEY,
+nome_tarefa varchar(50) NOT NULL
+FOREIGN KEY (id_pro)
+        REFERENCES 002prj(id)
+        ON DELETE CASCADE
+)
+
+
+CREATE TABLE 004age (
+fk_id_fun SMALLINT(4),
+fk_id_tar SMALLINT(4),
+data_inicio datetime,
+FOREIGN KEY (fk_id_fun) REFERENCES 001fun(id_fun),
+FOREIGN KEY (fk_id_tar) REFERENCES 003tar(id_tar)
+)

@@ -1,0 +1,32 @@
+Slide 1: Olá essa é a apresentação da quinta Sprint do grupo Bridges. Projeto integrador de Banco de Dados 2° semestre. 
+Integrantes Arthur Cardoso, Bruna Gonçalves, Daniel Delgado e Sabrina Calado. 
+
+Slide 2: Nessa sprint o foco maior foi integrar as telas html ao django e o 
+desenvolvimento do gráfico de Gantt.
+
+Slide 3: Foram desenvolvidas as funções para cadastrar, deletar, editar e consultar
+nas telas de tarefas, projetos e funcionários.
+
+Slide 4: Foi criada uma rotina de agendamento de tarefas, 
+possibilitando que o usuário defina a data de início de cada tarefa e a  
+atribua a um funcionário resposável pelo seu desenvolvimento.
+
+Slide 5: Foram inseridos tratamentos de erro e restrições para os casos em que 
+o usuário tente inserir dados incorretos nos campos.
+
+Slide 6: O banco de dados recebeu alguns ajustes para que seja possível receber
+agendamentos com datas de início. A data final é calculada conforme  as horas 
+disponíveis pelo funcionário x a duração da tarefa.
+
+Slide 7: Nessa sprint a equipe também procurou por bibliotecas  para aplicação 
+do gráfico de Gantt, com o intuíto de deixar sua interface mais prática e 
+funcional para o cliente. Dentre as opções encontradas, foi escolhida a blibioteca 
+da Google, a Google Chart Tools.
+
+Slide 8: Foi desenvolvido o gráfico de Gantt utilizando o Google Charts e em 
+seguidaimplementado no django para que pudesse ser integrado com o backend. 
+O gráfico é alimentado pela tabela de agendamento.
+
+Slide 9: Para a próxima sprint iremos implementar o login, criar as funções para 
+excluir e editar os agendamentos, ajustar o Gannt para disponibilização de informações,
+integração com o excel, e desenvolvimento do gráfico de disponibilidade dos funcionários.

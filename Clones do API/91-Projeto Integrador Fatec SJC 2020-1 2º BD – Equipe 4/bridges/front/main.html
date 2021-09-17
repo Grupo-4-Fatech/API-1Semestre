@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Painel</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,  shrink-to-fit=no"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/buttons/1.5.6/css/buttons.dataTables.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+    <style>
+        div.vertical
+          {
+           margin-left: -55px;
+           position: absolute;
+           width: 120px;
+           transform: rotate(-90deg);
+           -webkit-transform: rotate(-90deg); /* Safari/Chrome */
+           -moz-transform: rotate(-90deg); /* Firefox */
+           -o-transform: rotate(-90deg); /* Opera */
+           -ms-transform: rotate(-90deg); /* IE 9 */
+          }
+
+        td.vertical
+          {
+           height: 80px;
+           width: 10px;
+           line-height: 14px;
+           padding-bottom: 20px;
+           text-align: left;
+          }
+      </style>
+
+      <style type="text/css">
+      .p1{
+          color: white;
+      }
+      </style>
+  </head>
+  <body class="body">
+    <div class="bg-blue">
+      <a href="main.html">
+        <img src="img/logonectobranco.svg" class="img-fluid mt-2 ml-2 pb-2" alt="logo Necto" style="width: 160px; height: 60px;">
+       </a>
+      <div class="btn-group float-right pt-1 mr-3">
+        <button type="button" class="btn btn-blue dropdown-toggle btnrounded mt-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Nome
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="#">Alterar</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="index.html">Sair</a>
+        </div>
+      </div>
+      <a href="projetos.html" class="btn btn-blue ml-5 tamanho">Projetos</a>
+      <a href="funcionarios.html" class="btn btn-blue tamanho ml-5">Funcionários</a>
+      <a href="tarefas.html" class="btn btn-blue tamanho ml-5">Tarefas</a>
+    </div>
+   
+      <div class="container">
+
+      <br />
+      <h2>Gantt</h2>
+      <hr />
+
+          <div class="table-responsive">
+            <!--div class="col-md-6" style="float:right;"-->
+            <div class="col-md-12" style="float:right;">
+            <table class="table table-bordered"  width="100%" cellspacing="0">
+              <thead>
+                <tr>
+                  <th width="30" scope="col">Funcionários</th>
+                  <th width="30" scope="col">Horas Ocupadas</th>
+                  <th width="30" scope="col">Horas Disponíveis</th>
+                  <th width="30" scope="col">Horas Totais</th>
+                  <th width="30" scope="col">Carga (%)</th>
+                </tr>
+              </thead>
+              <tbody>
+                 <tr>
+                    <td style="background: red"><span class="p1">Pessoa 1</span></td>
+                    <td>25</td>
+                    <td>175</td>
+                    <td>200</td>
+                    <td>13%</td>
+                  </tr>
+                  <tr>
+                    <td style="background: blue"><span class="p1">Pessoa 2</span></td>
+                    <td>25</td>
+                    <td>175</td>
+                    <td>200</td>
+                    <td>13%</td>
+                  </tr>
+                  <tr>
+                    <td style="background: purple"><span class="p1">Pessoa 3</span></td>
+                    <td>25</td>
+                    <td>175</td>
+                    <td>200</td>
+                    <td>13%</td>
+                  </tr>
+                  <tr>
+                    <td style="background: green"><span class="p1">Pessoa 4</span></td>
+                    <td>25</td>
+                    <td>175</td>
+                    <td>200</td>
+                    <td>13%</td>
+                  </tr>
+              </tbody>
+            </table>
+           </div>
+
+          </div>
+
+
+
+
+              <div class="col-md-12" style="float:right;">
+                <table class="table table-bordered" >
+                <tr>
+                    <td colspan="4"><font size="65">Gantt</font></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="1"><div class="vertical">01/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="2"><div class="vertical">02/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="3"><div class="vertical">03/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="4"><div class="vertical">04/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="5"><div class="vertical">05/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="6"><div class="vertical">06/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="7"><div class="vertical">07/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="8"><div class="vertical">08/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="9"><div class="vertical">09/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="10"><div class="vertical">10/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="11"><div class="vertical">11/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="12"><div class="vertical">12/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="13"><div class="vertical">13/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="14"><div class="vertical">14/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="15"><div class="vertical">15/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="16"><div class="vertical">16/01</div></td>
+                    <td colspan="2" rowspan="2" class="vertical" id="17"><div class="vertical">17/01</div></td>
+                </tr>
+                <tr>
+                    <td>Projeto</td>
+                    <td>Atividade</td>
+                    <td>Carga (hrs)</td>
+                    <td>Progresso (%)</td>
+                </tr>
+                <tr>
+                    <td>Fatec</td>
+                    <td>Atividade 1</td>
+                    <td>12</td>
+                    <td>12%</td>
+                    <td style="background: purple"></td>
+                    <td style="background: purple"></td>
+                    <td style="background: purple"></td>
+                    <td style="background: purple"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Bilac</td>
+                    <td>Atividade 2</td>
+                    <td>45</td>
+                    <td>21%</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td style="background: green"></td>
+                    <td style="background: green"></td>
+                    <td style="background: green"></td>
+                    <td style="background: green"></td>
+                    <td style="background: green"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Etep</td>
+                    <td>Atividade 3</td>
+                    <td>1</td>
+                    <td>25%</td>
+                    <td></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td style="background: red"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Unip</td>
+                    <td>Atividade 4</td>
+                    <td>88</td>
+                    <td>4%</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td style="background: blue"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+              </table>
+
+              <br /><br />
+            </div>
+
+    </div>
+      
+      <footer id="footer" class="footer no-print fixed-bottom">
+        <div id="rodape">
+        <div class="container-fluid pl-0 pr-0">
+          <div class="row align-items-center mr-0 ml-0">
+          <div id="autoria" class="col-12 col-lg-8 mt-1 mb-1 text-center text-lg-left">
+            &nbsp;EQUIPE BRIDGES| Versão: Alpha | 
+            <strong>Powered by BridgesTeam</strong>
+          </div> 
+          <div class="col-12 col-lg-4 d-flex" id="versao">
+            <img src="./img/rodape-direito.png">
+            <div class="align-self-center mt-1 mb-1 text-center">
+              Acesse nosso gitlab:
+              <a href="https://https://gitlab.com/DNLMR/bridges/" target="_blank">
+              https://gitlab.com/DNLMR/bridges
+              </a>
+            </div>
+          </div> 
+          </div>
+        </div>
+        </div>
+      </footer>
+
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/datatables/jquery.dataTables.min.js"></script>
+    <script src="js/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,88 @@
+{% extends 'bridges_app/main.html' %}
+{% load static %}
+
+{% block title %}
+
+<title>Bridges - Agenda</title>
+
+{% endblock %}
+
+{% block content %}
+
+
+    <div class="container mt-5 pt-4">
+
+      <br />
+      <h2>Agendamento</h2>
+      <hr />
+
+      <form method="POST">
+      {% csrf_token %}
+       <div class="form-row">
+          <div class="col-md-5 mb-4">
+            <label for="validationTooltip01"><strong>{{ create_form.fk_tar.label_tag }}</strong></label>
+            {{ create_form.fk_tar }}
+            <div class="valid-tooltip">
+            </div>
+          </div>
+          <div class="col-md-7 mb-3">
+            <label for="validationTooltip02"><strong>{{ create_form.fk_fun.label_tag }}</strong></label>
+            {{ create_form.fk_fun }}
+            <div class="valid-tooltip">
+            </div>
+          </div>
+       </div>
+       <div class="form-row">
+
+          <div class="col-md-3 mb-3">
+              <label for="validationTooltip01"><strong>{{ create_form.dt_inicio.label_tag }}</strong></label>
+                {{ create_form.dt_inicio }}
+                  <div class="valid-tooltip">
+                  </div>
+          </div>
+       </div>
+        <button style="float:right; " class="btn btn-primary btn-sm mt-1 btn-block" type="submit">Cadastrar</button>
+         <br/>
+
+      </form>
+
+      <hr />
+      <div>
+        <P style="float:left; margin-left: 50px;Total"> Total Tarefas Cadastradas: <b>{{total_tarefas}}</b></P>
+      </div>
+      <div class="card shadow mb-4 col-md-11 mt-5 bg-transparent60" style="margin-left: 45px;">
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-bordered text-center"  width="100%" cellspacing="0">
+              <thead>
+                <tr>
+                  <th width="30" scope="col">Descrição da Tarefa</th>
+                  <th width="30" scope="col">Nome do Funcionário</th>
+                  <th width="30" scope="col">Data de Início</th>
+                    <th width="30" scope="col">Data de Término</th>
+                  <th width="60" scope="col">Opções</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for schedule in schedules %}
+                <tr>
+
+                  <td>{{schedule.fk_tar}}</td>
+                  <td>{{schedule.fk_fun}}</td>
+                    <td>{{schedule.dt_inicio}}</td>
+                    <td>{{schedule.dt_fim}}</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons">&#xE03B;</i></a>
+                    <a href="{% url 'agenda' %}" class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a href="{% url 'agenda' %}" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE872;</i></a>
+                  </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      </div>
+
+{% endblock %}

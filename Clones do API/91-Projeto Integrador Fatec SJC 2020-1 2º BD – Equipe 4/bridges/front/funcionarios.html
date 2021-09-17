@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Funcionários</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,  shrink-to-fit=no"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/buttons/1.5.6/css/buttons.dataTables.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+  </head>
+  <body class="body">
+    <div class="bg-blue">
+      <a href="main.html">
+        <img src="img/logonectobranco.svg" class="img-fluid mt-2 ml-2 pb-2" alt="logo Necto" style="width: 160px; height: 60px;">
+       </a>
+      <div class="btn-group float-right pt-1 mr-3">
+        <button type="button" class="btn btn-blue dropdown-toggle btnrounded mt-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Nome
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="#">Alterar</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="index.html">Sair</a>
+        </div>
+      </div>
+      <a href="projetos.html" class="btn btn-blue ml-5 tamanho">Projetos</a>
+      <a href="funcionarios.html" class="btn btn-blue tamanho ml-5">Funcionários</a>
+      <a href="tarefas.html" class="btn btn-blue tamanho ml-5">Tarefas</a>
+    </div>
+   
+    <div class="container">
+
+      <br />
+      <h2>Cadastro de Funcionários</h2>
+      <hr class="mb-5"/>
+
+      <form class="form-row ml-5">
+          <div class="col-md-7">
+            <label for="validationTooltip01"><strong>Nome do Funcionário</strong></label>
+            <input type="text" class="form-control" id="nomeFuncionario" placeholder="Nome do Funcionário" required>
+            <div class="valid-tooltip"></div>
+          </div>   
+          <div class="ml-3">
+            <label for="validationTooltip01"><strong>Hrs</strong></label>
+            <div class="form-group row">
+              <div class="col-md-5">
+                <input type="number" class="form-control" min="0" maxlength="2" >
+              </div>
+            <div class="valid-tooltip">
+            </div>
+          </div>
+        </div>
+        <div>
+          <label class="margin-negative" for="validationTooltip01"><strong>Mins</strong></label>
+          <div class="form-group row">
+            <div class="col-md-11">
+              <input type="number" class="form-control margin-negative" maxlength="2" max="59" >
+            </div>
+          <div class="valid-tooltip">
+          </div>
+        </div>
+      </div>
+        <button class="btn btn-primary btn-sm" style="height: 30px; margin-top: 40px; " type="submit">Cadastrar</button>
+     </form>
+   
+      <div class="card shadow mb-4 col-md-11 mt-5 bg-transparent60" style="margin-left: 45px;">
+        
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-bordered"  width="100%" cellspacing="0">
+              <thead>
+                <tr>
+                  <th width="60" scope="col" >Nome do Funcionário</th>
+                  <th width="60" scope="col" >Carga Horária(hrs)</th>
+                  <th width="10" scope="col" style="width: 0.01px;">Opções</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Funcionário a</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add " title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário b</td>
+                  <td>12 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário c</td>
+                  <td>32 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário d</td>
+                  <td>50 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário e</td>
+                  <td>6 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário f</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário g</td>
+                  <td>20 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário h</td>
+                  <td>18 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário i</td>
+                  <td>16 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário j</td>
+                  <td>12 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td>Funcionário k</td>
+                  <td>16 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário l</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário m</td>
+                  <td>10 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário n</td>
+                  <td>12 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário o</td>
+                  <td>36 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td>Funcionário p</td>
+                  <td>40 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário q</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário r</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário s</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Funcionário t</td>
+                  <td>8 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      </div>
+
+    </div>
+
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/datatables/jquery.dataTables.min.js"></script>
+    <script src="js/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

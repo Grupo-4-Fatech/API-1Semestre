@@ -1,0 +1,36 @@
+{% extends 'bridges_app/main.html' %}
+{% load static %}
+
+{% block title %}
+
+<title>Bridges - Deletar Tarefa</title>
+
+{% endblock %}
+
+{% block content %}
+
+
+    <div class="container">
+
+      <br />
+      <h2>Deletar Tarefas</h2>
+      <hr />
+      <br />
+
+      <form method="POST">
+        {% csrf_token %}
+        <div class="form-group">
+          <p>Você tem certeza que quer deletar essa tarefa ?</p>
+          <div>
+             <button style="float:right; "class="btn btn-danger btn-sm mt-2 btn-block" type="submit">Sim, deletar</button>
+
+          </div>
+
+          <br />
+          <br />
+        </div>
+      </form>
+      <a href="{% url 'Tarefas' %}" class="btn btn-blue btn-sm mt-2  btn-block">Não, retornar à tela de Tarefas</a>
+      <hr />
+    </div>
+{% endblock %}
