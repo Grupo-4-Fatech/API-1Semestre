@@ -15,6 +15,5 @@ disponibilização desses links através de uma página Web
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 
 ## Site
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Za4CrqMQb38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](http://www.youtube.com/watch?v=Za4CrqMQb38)
 
