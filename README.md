@@ -11,6 +11,10 @@ disponibilização desses links através de uma página Web
 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
 
+## Tecnologias Utilizadas
+![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
+
+
 ## Alunos
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 
