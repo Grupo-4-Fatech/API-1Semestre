@@ -1,0 +1,25 @@
+slide 1 apresentação: ola nos somos o grupo bridges, eu sou o arthur e estou aqui para apresentar para vcs oq foi feita nas ultimas duas semanas pela nossa equipe.
+
+slide 2 django:A equipe decidiu usar python como linguagem de programação, visto isso utilizaremos Django como framework para o front-end, pois Django ja é bem estabelecido no mercado sendo usado por varias empresas como a nasa, Instagram, Spotify e Youtube.
+
+slide 3 backlog:
+Nessa sprint elaboramos também o backlog do nosso projeto. o backlog são os "desejos do cliente", como base nisso fizemos a priorização para saber onde devemos atuar primeiro.
+Optamos por iniciar com a elaboração das telas de acessos básicas, onde o usuário irá cadastrar e consultar as principais entidades de sua aplicação (tarefas, projetos e funcionários).
+
+Na próxima sprint focaremos em elaborar o indicador de carga de  trabalho por funcionário. A ideia aqui é deixar essa informação bem objetiva e fácil para o cliente, pois entendemos que está é uma informação crucial para que o mesmo atinja seu objetivo de programar seus projetos com eficiência.
+
+Nas demais iremos desenvolver as telas do gráfico gantt, assim como telas de login e criar a função de importação do Excel de modo que os dados sejam cadastrados automaticamente, uma espécie de BackOffice
+
+Caso nos  reste tempo, adaptaremos o calendário do gantt para os eventos do município da cidade do cliente (sjc) e desenvolveremos algo para que o mesmo consiga cadastrar habilidades para os funcionários, tornando a tarefa de distribuição de tarefas mais precisa por ter essa informação
+
+slide 4 crud:CRUD é o termo que resume criar, pesquisar, atualizar, deletar. essa parte do projeto é muito importante, pois aqui sera onde usaremos o banco de dados para criar os projetos, funcionarios e suas tarefas, alem de ser uma parte crucial do projeto, pois daqui saira os dados para os graficos que viram em proximas entregas. (tbm é valido comentar q o crud em questão é apenas um teste feito para aprendizado da equipe de como fazer o crud cm django)
+
+slide 5 : VIDEO mostrando o crud e explicando o codigo.
+
+slide 6 Tela de login: tela com foco centro com as funçoes de entrar no site, aqui o usuario pode colocar seu login e a sua senha, caso corretas, o usuario sera encaminhado para a tela de menu, caso contrario ele tera que repetir a senha ate conseguir entrar.
+
+slide 7 tela de menu: apos o usuario fazer login ele entrara na tela de menu, aqui ele podera escolher entre as opçoes de projetos, funcionarios e tarefas, alem de poder ver as opçoes de usuario.
+ 
+slide 8 tela de tarefas: Apos clicar na opçao de tarefas no menu o usuario sera encaminhado para essa tela, onde sera possivel realizar o cadastro de projetos, e fazer a pesquisa com a opção de combo box, atualizar e deletar os projetos tambem.
+
+slide 9 tela de contato: qualquer duvida aqui esta o email de nosso po daniel, agradeço a atenção de todos.

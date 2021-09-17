@@ -1,0 +1,26 @@
+Slide 1: Olá essa é a apresentação da quarta Sprint do grupo Bridges. Projeto integrador de Banco de Dados 2° semestre. Integrantes Arthur Cardoso, Bruna Gonçalves, Daniel Delgado e Sabrina Calado. 
+
+Slide 2: Nessa sprint O FOCO MAIOR foi construir as telas "cruas" em html, css e js para que o cliente possa ter um contato mais "tangivel" com a aplicação que estamos desenvolvendo. Em paralelo foi também desenvolvido uma das telas já integrada com a base de dados  através da ferramente DJango.
+
+Slide 3: A tela de login tem uma interação simples qual só é possível se logar com ambos usuario e senha sendo admin. No próximo slide será mostrado o funcionamento. 
+
+Slide 4: Na primeira tentativa iremos usar o usuario admin porém a senha será "123" e será clicado em entrar, já na segunda vez usaremos usuario e senha "admin" e dessa vez será clicado botão enter e seremos direcionados para a página principal.
+
+Slide 5: A tela principal mostra uma tabela com os funcionários e as horas ocupadas, disponíveis e totais de cada um. Logo abaixo temos o gantt associando cada funcionário ao projeto correspondente. 
+
+Slide 6: A tela de projetos possui um campo para cadastro de um novo projeto e uma tabela mostrando todos os projetos cadastrados mais o tempo total que é composto pelas horas de todas as tarefas do mesmo. 
+
+Slide 7: A tela de tarefas possui campos para cadastrar uma nova tarefa e uma tabela mostrando suas informações. 
+
+Slide 8: A tela de funcionários contem campos para cadastro de um novo funcionário e tabela mostrando suas informações.É importante ressaltar que todas as tabelas possuem um campo de busca, filtro de ordem alfabética, páginação e quantidade de registros mostrados por página. 
+
+Slide 9: Usamos como exemplo uma versão anterior da tela de tarefas para integra-la ao DJANGO. 
+Nela já temos integrado um FORMULARIO WEB para cadastrar, além de uma listagem das tarefas que ja foram cadastradas através da aplicação (uma especie de SELECT * FROM table).
+Nesta tela já podemos CADASTRAR uma tarefa de um determinado projeto.
+Editar seus dados após cria-la e também deletar as tarefas caso necessario.
+Iremos adaptar para nova versão da tela e também replicar esses mesmo conceitos para as outras entidades. 
+
+Slide 10: Para proxima sprint iremos refinar o trabalhado nessa:  Pretendemos melhorar o GANNT, integrar toda a aplicação ao DJANGO e elaborar gráficos para parte de Indicador de carga de Trabalho. Pretendemos assim ter o CORE da aplicação praticametne finalizado ao final da próxima sprint com suas versões FINAIS de desenvolvimento. Assim submeteremos àa homologação do cliente para ajustes de QA.
+
+Slide 11: Dúvidas ou sugestões entrar em contato com o nosso P.O. Daniel através do email. Obrigada. 
+

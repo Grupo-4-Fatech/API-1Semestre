@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Projetos</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,  shrink-to-fit=no"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/buttons/1.5.6/css/buttons.dataTables.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+  <body class="body">
+    <div class="bg-blue">
+      <a href="main.html">
+        <img src="img/logonectobranco.svg" class="img-fluid mt-2 ml-2 pb-2" alt="logo Necto" style="width: 160px; height: 60px;">
+       </a>
+      <div class="btn-group float-right pt-1 mr-3">
+        <button type="button" class="btn btn-blue dropdown-toggle btnrounded mt-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Nome
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="#">Alterar</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="index.html">Sair</a>
+        </div>
+      </div>
+      <a href="projetos.html" class="btn btn-blue ml-5 tamanho">Projetos</a>
+      <a href="funcionarios.html" class="btn btn-blue tamanho ml-5">Funcionários</a>
+      <a href="tarefas.html" class="btn btn-blue tamanho ml-5">Tarefas</a>
+    </div>
+   
+    <div class="container">
+
+      <br />
+      <h2>Cadastro de Projetos</h2>
+      <hr /><br />
+
+      <form>
+  
+        <div class="form-group" style="margin-left: 45px;">
+		
+		<div> 
+			<label for="validationTooltip01"><strong>Nome do Projeto</strong></label>
+		</div>
+		 <div>
+			<div class="row">
+				<div class="col-10">
+					<input type="text" class="form-control col-md-8" id="nomeProjeto" placeholder="Nome do Projeto" required>
+				</div>
+				<div class="col-2 vertical-center">
+					<button type="submit" class="btn btn-primary btn-sm mb-3 btn-block" style="margin-top: 4px;">Cadastrar</button> 
+				</div>
+			</div>
+		</div> 
+        </div>
+      </form>
+	  
+      <div class="card shadow mb-4 col-md-11 mt-5 bg-transparent60" style="margin-left: 45px;">
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-bordered"  width="100%" cellspacing="0">
+              <thead>
+                <tr>
+                  <th width="30" scope="col">Nome do Projeto</th>
+                  <th width="30" scope="col">Total de Horas(hrs)</th>
+                  <th width="10" scope="col">Opções</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Fatec</td>
+                  <td>12 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Fatec</td>
+                  <td>12 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Unip</td>
+                  <td>20 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Unip</td>
+                  <td>10 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Etep</td>
+                  <td>18 horas</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons mr-4">&#xE03B;</i></a>
+                    <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons mr-4">&#xE872;</i></a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      </div>
+
+    </div>
+    
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/datatables/jquery.dataTables.min.js"></script>
+    <script src="js/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

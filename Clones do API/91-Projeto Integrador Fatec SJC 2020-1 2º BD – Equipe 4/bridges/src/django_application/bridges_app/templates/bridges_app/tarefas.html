@@ -1,0 +1,93 @@
+{% extends 'bridges_app/main.html' %}
+{% load static %}
+
+{% block title %}
+
+<title>Bridges - Tarefas</title>
+
+{% endblock %}
+
+{% block content %}
+
+
+    <div class="container mt-5 pt-4">
+
+      <br />
+      <h2>Cadastro de Tarefas</h2>
+      <hr />
+
+      <form method="POST">
+      {% csrf_token %}
+       <div class="form-row">
+          <div class="col-md-5 mb-4">
+            <label for="validationTooltip01"><strong>{{ create_form.fk_pro.label_tag }}</strong></label>
+            {{ create_form.fk_pro }}
+            <div class="valid-tooltip">
+            </div>
+          </div>
+          <div class="col-md-7 mb-3">
+            <label for="validationTooltip02"><strong>{{ create_form.nom_tar.label_tag }}</strong></label>
+            {{ create_form.nom_tar }}
+            <div class="valid-tooltip">
+            </div>
+          </div>
+       </div>
+       <div class="form-row">
+
+          <div class="col-md-3 mb-3">
+              <label for="validationTooltip01"><strong>{{ create_form.dur_tar_hours.label_tag }}</strong></label>
+                {{ create_form.dur_tar_hours }}
+                  <div class="valid-tooltip">
+                  </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+              <label for="validationTooltip01"><strong>{{ create_form.dur_tar_min.label_tag }}</strong></label>
+                {{ create_form.dur_tar_min }}
+                  <div class="valid-tooltip">
+          </div>
+        </div>
+       </div>
+        <button style="float:right; " class="btn btn-primary btn-sm mt-1 btn-block" type="submit">Cadastrar</button>
+         <br/>
+
+      </form>
+
+      <hr />
+      <div>
+        <P style="float:left; margin-left: 50px;Total"> Total Tarefas Cadastradas: <b>{{total_tarefas}}</b></P>
+      </div>
+      <div class="card shadow mb-4 col-md-11 mt-5 bg-transparent60" style="margin-left: 45px;">
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-bordered text-center"  width="100%" cellspacing="0">
+              <thead>
+                <tr>
+                  <th width="30" scope="col">Nome do Projeto</th>
+                  <th width="30" scope="col">Descrição</th>
+                  <th width="30" scope="col">Duração</th>
+                  <th width="60" scope="col">Opções</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for tarefa in tarefas %}
+                <tr>
+
+                  <td>{{tarefa.fk_pro}}</td>
+                  <td>{{tarefa.nom_tar}}</td>
+                  <td>{{tarefa.dur_tar_hours|stringformat:"02d"}}:{{tarefa.dur_tar_min|stringformat:"02d"}}</td>
+                  <td>
+                    <a class="add" title="Add" data-toggle="tooltip"><i class="material-icons">&#xE03B;</i></a>
+                    <a href="{% url 'update_task' tarefa.id_tar %}" class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons mr-4">&#xE254;</i></a>
+                    <a href="{% url 'delete_task' tarefa.id_tar %}" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE872;</i></a>
+                  </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      </div>
+
+{% endblock %}

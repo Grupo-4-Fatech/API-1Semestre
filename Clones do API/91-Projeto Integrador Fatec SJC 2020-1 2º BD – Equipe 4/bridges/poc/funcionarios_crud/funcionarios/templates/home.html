@@ -1,0 +1,52 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Login</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,  shrink-to-fit=no"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Dosis&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
+  </head>
+  <body class="loginpage">
+    <div class="card text-center" id="containerlogin">
+      <div>
+        <img src="../static/img/logonecto.svg" class="img-fluid" alt="logo Necto" style="width: 150px; height: 60px;">
+      </div>
+      <div class="card-body">
+        <label class="pb-4 font-weight-bold">LOGIN</label>
+        <form>
+          <div class="form-group">
+            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Usuario">
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="Senha">
+          </div>
+          <a href="main" class="btn btn-login">Entrar</a>
+        </form>
+      </div>
+    </div>
+    
+    <script src="../static/js/jquery-3.4.1.min.js"></script>
+    <script src="../static/js/popper.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+    <script src="../static/js/main.js"></script>
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>

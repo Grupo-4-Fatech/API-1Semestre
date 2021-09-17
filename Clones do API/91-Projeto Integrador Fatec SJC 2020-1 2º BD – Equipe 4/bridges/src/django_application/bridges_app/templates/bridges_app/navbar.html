@@ -1,0 +1,21 @@
+{% load static %}
+
+    <div class="bg-blue fixed-top">
+      <a href="{% url 'gantt' %}">
+        <img src="{% static 'images/logonectobranco.svg' %}" class="img-fluid mt-2 ml-2 pb-2" alt="logo Necto" id="logo">
+       </a>
+      <div class="btn-group float-right pt-1 mr-3">
+        <button type="button" class="btn btn-blue dropdown-toggle btnrounded mt-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Nome
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="#">Alterar</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="index.html">Sair</a>
+        </div>
+      </div>
+      <a href="{% url 'projetos' %}" class="btn btn-blue ml-5 tamanho">Projetos</a>
+      <a href="{% url 'funcionarios' %}" class="btn btn-blue tamanho ml-5">Funcionários</a>
+      <a href="{% url 'Tarefas' %}" class="btn btn-blue tamanho ml-5">Tarefas</a>
+        <a href="{% url 'agenda' %}" class="btn btn-blue tamanho ml-5">Agendamentos</a>
+    </div>

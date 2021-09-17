@@ -1,0 +1,20 @@
+{% extends 'polls/main.html' %}
+{% load static %}
+
+{% block content %}
+
+
+<table class="table" style="max-width:500px">
+    <tr>
+        <th>Nome do Funcionário</th>
+        <th>Limite de Horas/mês</th>
+    </tr>
+
+    {% for funcionario in list %}
+    <tr>
+        <td>{{funcionario.name}}</td>
+        <td>{{funcionario.total_hours}}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

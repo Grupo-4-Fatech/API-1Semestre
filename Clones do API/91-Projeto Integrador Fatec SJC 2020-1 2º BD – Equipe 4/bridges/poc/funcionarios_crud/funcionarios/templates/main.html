@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Painel</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,  shrink-to-fit=no"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Dosis&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="../static/css/style.css" />
+  </head>
+  <body class="body">
+    <div class="bg-dark">
+      <img src="../static/img/logonectobranco.svg" class="img-fluid mt-2 ml-2 pb-2" alt="logo Necto" style="width: 160px; height: 80;">
+      <div class="btn-group float-right pt-1 mr-3">
+        <button type="button" class="btn btn-secondary dropdown-toggle btnrounded mt-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Nome
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="#">Alterar</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="index.html">Sair</a>
+        </div>
+      </div>
+      <a href="/books_cbv/" class="btn btn-secondary ml-5 tamanho">Projetos</a>
+      <a href="/books_fbv/" class="btn btn-secondary tamanho ml-5">Funcionários</a>
+      <a href="/books_fbv/" class="btn btn-secondary tamanho ml-5">Tarefas</a>
+    </div>
+   
+      <div>
+
+      </div>
+    
+    <script src="../static/js/jquery-3.4.1.min.js"></script>
+    <script src="../static/js/popper.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+    <script src="../static/js/main.js"></script>
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>

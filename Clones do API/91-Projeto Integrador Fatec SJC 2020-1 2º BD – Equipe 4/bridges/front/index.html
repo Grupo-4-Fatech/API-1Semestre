@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Login</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,  shrink-to-fit=no"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/buttons/1.5.6/css/buttons.dataTables.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+  </head>
+  <body class="loginpage">
+    <div class="card text-center pt-4" id="containerlogin">
+      <div>
+        <img src="img/logonecto.svg" class="img-fluid" alt="logo Necto" style="width: 150px; height: 60px;">
+      </div>
+      <div class="card-body">
+        <label class="pb-4 font-weight-bold">LOGIN</label>
+        <form>
+          <div class="form-group">
+            <input type="text" class="form-control" id="usuario" placeholder="Usuario" autofocus>
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control" id="senha" placeholder="Senha">
+          </div>
+          <div class="form-check float-right mb-2">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Lembrar-me</label>
+          </div>
+          <input onclick="Login()" type="button" value="Entrar" class="btn btn-login btn-blue" id="login">
+        </form>
+      </div>
+    </div>
+    
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/datatables/jquery.dataTables.min.js"></script>
+    <script src="js/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
