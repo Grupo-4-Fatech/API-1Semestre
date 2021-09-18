@@ -38,12 +38,12 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 
 | Nome            | Função       | GitHub                                                       |
 |-----------------|--------------|--------------------------------------------------------------|
-| Dionísio Leão   | Scrum Master | <a href="https://www.google.com/" target="_blank">Github</a> |
-| André Ribeiro   | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
-| Antônio Barbosa | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
-| Bruna Dias      | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
+| Dionísio Leão   | Scrum Master | <a href="https://github.com/dsslleagion" target="_blank">Github</a> |
+| André Ribeiro   | Desenvolvedor| <a href="https://github.com/New-Tomorrow" target="_blank">Github</a> |
+| Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> |
+| Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> |
 | Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
-| Gustavo Moura   | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
+| Gustavo Moura   | Desenvolvedor| <a href="https://github.com/gstvmoura" target="_blank">Github</a> |
                                     
 ## Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](http://www.youtube.com/watch?v=Za4CrqMQb38)
