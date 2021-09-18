@@ -17,6 +17,9 @@ disponibilização desses links através de uma página Web.
 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
 
+## Sprints Backlog
+![backlog CERTP](https://user-images.githubusercontent.com/89141910/133865051-86adfe97-d593-4bc7-848a-b0e5626a2921.png)
+
 ## Alunos
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 ## Site
