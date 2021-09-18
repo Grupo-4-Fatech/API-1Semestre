@@ -42,7 +42,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 | André Ribeiro   | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
 | Antônio Barbosa | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
 | Bruna Dias      | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
-| Gabriel Coutinho| Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
+| Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
 | Gustavo Moura   | Desenvolvedor| <a href="https://www.google.com/" target="_blank">Github</a> |
                                     
 ## Website
