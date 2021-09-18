@@ -4,10 +4,20 @@ Projeto fatec - automatização do GitHub
 ## O Projeto
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
 ![OBJETIVO](https://user-images.githubusercontent.com/89141910/133865425-8d18f61f-58ca-47b7-aa87-578c0a00e168.png)
-
+> Status do Projeto: Em andamento.
 ## Proposta
-Desenvolver um sistema para automatizar o processo de raspagem dos links githubs dos APIs (Aprendizagem por Projetos Integrados) do site Fatec São José dos Campos, visando a 
-disponibilização desses links através de uma página Web.
+**Desenvolver a automação de clonagem com os seguintes requisitos:**
+> Requisitos
+- [ ] Automatização de clonagem em linguagem Python.
+- [ ] Desenvolvimento do website em linguagem HTML.
+- [ ] Layout do website em linguagem CSS. 
+- [ ] Raspagem das URLs de API'S da FATEC SJC.
+- [ ] Clonagem de cada repositório do GitHub de projetos anteriores da FATEC SJC.
+- [ ] Upload de todos os projetos no Github da Fatec SJC.
+- [ ] As pastas seguem a organização por curso, semestre, ano e turma.
+- [ ] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
+> Funcionalidades Extras
+- [ ] Manual de instalação em GIFs
 ## Tecnologias Utilizadas
 ![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
 - **Back-end:** Phyton;
