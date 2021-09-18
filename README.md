@@ -1,9 +1,11 @@
 # API- Projeto Integrador 1º Semestre ADS - Grupo Fatech 
 GitLab para desenvolvimento do Projeto Integrador do 1º Semestre - Analise e desenvolvimeto de sistemas FATEC SJC
 Projeto fatec - automatização do GitHub
-## Quem somos?
+## O Projeto
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
-## Proposta do projeto
+![OBJETIVO](https://user-images.githubusercontent.com/89141910/133865425-8d18f61f-58ca-47b7-aa87-578c0a00e168.png)
+
+## Proposta
 Desenvolver um sistema para automatizar o processo de raspagem dos links githubs dos APIs (Aprendizagem por Projetos Integrados) do site Fatec São José dos Campos, visando a 
 disponibilização desses links através de uma página Web.
 ## Tecnologias Utilizadas
