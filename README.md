@@ -36,9 +36,14 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ## Equipe
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 
-| Nome          | Função       | GitHub                            |
-|---------------|--------------|-----------------------------------|
-| Dionísio Leão | Scrum Master | <a href="https://www.google.com/" |
+| Nome            | Função       | GitHub                            |
+|-----------------|--------------|-----------------------------------|
+| Dionísio Leão   | Scrum Master | <a href="https://www.google.com/" |
+| André Ribeiro   | Desenvolvedor|
+| Antônio Barbosa | Desenvolvedor|
+| Bruna Dias      | Desenvolvedor|
+| Gabriel Coutinho| Desenvolvedor|
+| Gustavo Moura   | Desenvolvedor|
                                     
 ## Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](http://www.youtube.com/watch?v=Za4CrqMQb38)
