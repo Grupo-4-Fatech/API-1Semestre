@@ -36,7 +36,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ## Equipe
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
 
-| Nome | Função | GitHub |
+| Nome          | Função       | GitHub                            |
+|---------------|--------------|-----------------------------------|
 | Dionísio Leão | Scrum Master | <a href="https://www.google.com/" |
                                     
 ## Website
