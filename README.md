@@ -13,7 +13,9 @@ disponibilização desses links através de uma página Web
 
 ## Tecnologias Utilizadas
 ![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
-
+- Back-end: Phyton;
+- Front-end: HTML, CSS;
+- Ferramentas: Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 
 ## Alunos
 https://user-images.githubusercontent.com/88987612/133004063-fbf4a24e-e4fe-4e90-a6b5-79249c99127e.mp4
