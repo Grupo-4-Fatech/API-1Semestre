@@ -10,12 +10,12 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 **Desenvolver a automação de clonagem com os seguintes requisitos:**
 > Requisitos
 - [ ] Automatização de clonagem em linguagem Python.
-- [ ] Desenvolvimento do website em linguagem HTML.
-- [ ] Layout do website em linguagem CSS. 
-- [ ] Raspagem das URLs de API'S da FATEC SJC.
-- [ ] Clonagem de cada repositório do GitHub de projetos anteriores da FATEC SJC.
+- [x] Desenvolvimento do website em linguagem HTML.
+- [x] Layout do website em linguagem CSS. 
+- [x] Raspagem das URLs de API'S da FATEC SJC.
+- [x] Clonagem de cada repositório do GitHub de projetos anteriores da FATEC SJC.
 - [ ] Upload de todos os projetos no Github da Fatec SJC.
-- [ ] As pastas seguem a organização por curso, semestre, ano e turma.
+- [x] As pastas seguem a organização por curso, semestre, ano e turma.
 - [ ] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
 > Funcionalidades Extras
 - [ ] Manual de instalação em GIFs
