@@ -34,7 +34,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ![backlog CERTP](https://user-images.githubusercontent.com/89141910/133865051-86adfe97-d593-4bc7-848a-b0e5626a2921.png)
 
 ## Equipe
-![EQUIPE](https://user-images.githubusercontent.com/89141910/133867255-8571ddf1-e14a-4ee9-bdbc-f5d8fc88de27.gif)
+![EQUIPE (1)](https://user-images.githubusercontent.com/89141910/134176440-9b88a19d-ddd9-48d7-a7fb-c6138a365366.gif)
+
 
 
 | Nome            | Função       | GitHub                                                       |
