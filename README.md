@@ -46,6 +46,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 | Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> |
 | Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
 | Gustavo Moura   | Desenvolvedor| <a href="https://github.com/gstvmoura" target="_blank">Github</a> |
+| Luiz Prado      | Desenvolvedor| <a href="" target="_blank">Github</a>
                                     
 ## Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](http://www.youtube.com/watch?v=Za4CrqMQb38)
