@@ -10,6 +10,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 **Desenvolver a automação de clonagem com os seguintes requisitos:**
 > Requisitos
 - [ ] Automatização de clonagem em linguagem Python.
+- [x] Automatização do processo de raspagem de dados.
 - [x] Desenvolvimento do website em linguagem HTML.
 - [x] Layout do website em linguagem CSS. 
 - [x] Raspagem das URLs de API'S da FATEC SJC.
