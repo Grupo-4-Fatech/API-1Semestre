@@ -31,7 +31,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
 
 ## Sprints Backlog
-![backlog CERTP](https://user-images.githubusercontent.com/89141910/133865051-86adfe97-d593-4bc7-848a-b0e5626a2921.png)
+![backlog CERTP](https://user-images.githubusercontent.com/89141910/136448838-d539e1b5-0c21-4bce-a659-0b5aae29f213.png)
 
 ## Equipe
 ![EQUIPE (1)](https://user-images.githubusercontent.com/89141910/134176440-9b88a19d-ddd9-48d7-a7fb-c6138a365366.gif)
