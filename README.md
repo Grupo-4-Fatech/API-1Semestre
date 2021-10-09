@@ -51,3 +51,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
                                     
 ## Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](http://www.youtube.com/watch?v=Za4CrqMQb38)
+
+## Raspagem de dados
+
+## Clonagem dos Gits
