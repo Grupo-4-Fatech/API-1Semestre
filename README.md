@@ -60,3 +60,5 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 
 ## Gits Clonados
 ![mostrando-os-arquivos](https://user-images.githubusercontent.com/89141910/136674366-fa581145-dfb6-466d-aeac-68e66b7cf0a6.gif)
+
+- A equipe fez a clonagem de apenas alguns gits aleatórios para efeito de demonstração.
