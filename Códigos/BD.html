@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link  type="text/css" rel="stylesheet" href="estilos.css">
+
+    <!-- Load icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <title>ADS</title>
+
+     <style>
+          .p1 {
+        text-align: center;
+        }
+
+        .p2{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .box {
+        float: left;
+        width: 33.33%;
+        padding: 10px;
+        }
+
+        .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+        }
+
+
+
+     </style>
+
+
+
+     
+    </head>
+    <body background="/img/fundo.png" style="background-color: rgba(106, 116, 119, 0.205);">
+        <table border='0px' width='900px' align='center'>
+            <!--imagem do topo-->
+    
+            <div class="logo" align="center">
+    
+                <img src="logo.png" alt="logo" style="width: 900px;height: 200px;">
+    
+            </div>
+
+        </table>
+
+        <div class="w3-bar w3-border w3-black">
+            <a href="home.html" class="w3-bar-item w3-button">Home</a>
+            <div class="w3-dropdown-hover">
+                <button class="w3-button">Projetos</button>
+                <div class="w3-dropdown-content w3-bar-block w3-border">
+                    <a href="Análise e desenvolvimento de sistema.html" class="w3-bar-item w3-button">Análise e desesnvolvimento de sistemas</a>
+                    <a href="Banco de dados.html" class="w3-bar-item w3-button">Banco de dados </a>
+                    <a href="Desenvolvimento de software multiplataforma.html" class="w3-bar-item w3-button">Desesnvolvimento de software multiplataforma</a>
+                    <a href="logistica.html" class="w3-bar-item w3-button">Logistica</a>
+                    <a href="Manufatura.html" class="w3-bar-item w3-button">Manufatura avançada</a>
+                    <a href="Manutenção.html" class="w3-bar-item w3-button">Manutenção de aeronaves</a>
+                </div>
+            </div>
+            <a href="Contatos.html" class="w3-bar-item w3-button">Contatos</a>
+            <!--<form class="example" action="action_page.php">
+                <input type="text" placeholder="Search.." name="search"  >
+                <button type="submit"><i class="fa fa-search"></i></button >
+            </form>-->
+    
+        </div>
+        <nav class="">
+            <h2>APIs</h2>
+            <input type="text" id="pesquisa" onkeyup="pesquisar()" placeholder="Pesquisar..." title="Digite uma opção no menu">
+            <ul id="menu">
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/1-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%204%C2%BA%20BD%20%E2%80%93%20Equipe%20Pythaon/projeto-integrador-pythaon">Fatec SJC 2021-1 4º BD – Equipe Pythaon</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/19-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%20DevStore">Fatec SJC 2021-1 2º BD – Equipe DevStore</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/23-Aprendizagem%20por%20Projetos%20Integrador%20Fatec%20SJC%202021-1%201%C2%BA%20BD%20%E2%80%93%20Equipe%20SilverCod3/Athena">Fatec SJC 2021-1 1º BD – Equipe SilverCod3</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/25-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%20Java%20Pastry">Fatec SJC 2021-1 2º BD – Equipe Java Pastry</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/27-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%203%C2%BA%20BD%20%E2%80%93%20Equipe%2004">Fatec SJC 2021-1 3º BD – Equipe 04</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/30-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%201%C2%BA%20BD%20%E2%80%93%20Equipe%20TheLooksDatabase">Fatec SJC 2021-1 1º BD – Equipe TheLooksDatabase</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/32-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%20Tetris">Fatec SJC 2021-1 2º BD – Equipe Tetris</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/34-Aprendizagem%20por%20Projetos%20Integrados%20Fatec%20SJC%202021-1%201%C2%BA%20BD%20%E2%80%93%20Equipe%20CodeYCode">Fatec SJC 2021-1 1º BD – Equipe CodeYCode</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/36-Aprendizagem%20por%20Projetos%20Integrador%20Fatec%20SJC%202021-1%201%C2%BA%20BD%20%E2%80%93%20Equipe%20Phamtom">Fatec SJC 2021-1 1º BD – Equipe Phamtom</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/43-Projeto%20Integrador%20Fatec%20SJC%202020-2%201%C2%BA%20BD%20%E2%80%93%20Equipe%203">Fatec SJC 2020-2 1º BD – Equipe 3</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/45-Projeto%20Integrador%20Fatec%20SJC%202020-2%203%C2%BA%20BD%20%E2%80%93%20Equipe%20Score%20Wizard">Fatec SJC 2020-2 3º BD – Equipe Score Wizard</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/53-Projeto%20Integrador%20Fatec%20SJC%202020-2%202%C2%BA%20BD%20%E2%80%93%20Equipe%207">Fatec SJC 2020-2 2º BD – Equipe 7</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/54-Projeto%20Integrador%20Fatec%20SJC%202020-2%202%C2%BA%20BD%20%E2%80%93%20Equipe%204">Fatec SJC 2020-2 2º BD – Equipe 4</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/56-Projeto%20Integrador%20Fatec%20SJC%202020-2%201%C2%BA%20BD%20%E2%80%93%20Equipe%206/projeto-integrador">Fatec SJC 2020-2 1º BD – Equipe 6</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/58-Projeto%20Integrador%20Fatec%20SJC%202020-2%201%C2%BA%20BD%20%E2%80%93%20Equipe%201/projeto_integrador_coffeend">Fatec SJC 2020-2 1º BD – Equipe 1</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/59-Projeto%20Integrador%20Fatec%20SJC%202020-2%205%C2%BA%20BD%20%E2%80%93%20Equipe%203/spring-boot-produtora-back-end">Fatec SJC 2020-2 5º BD – Equipe 3</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/60-Projeto%20Integrador%20Fatec%20SJC%202020-2%202%C2%BA%20BD%20%E2%80%93%20Equipe%205/ProjetoTecSUS">Fatec SJC 2020-2 2º BD – Equipe 5</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/61-Projeto%20Integrador%20Fatec%20SJC%202020-2%202%C2%BA%20BD%20%E2%80%93%20Equipe%203/Projeto_Integrador2">Fatec SJC 2020-2 2º BD – Equipe 3</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/66-Projeto%20Integrador%20Fatec%20SJC%202020-2%203%C2%BA%20BD%20%E2%80%93%20Equipe%20Tecno%20Code/dashboard-spc">Fatec SJC 2020-2 3º BD – Equipe Tecno Code</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/78-Projeto%20Integrador%20Fatec%20SJC%202020-2%202%C2%BA%20BD%20%E2%80%93%20Equipe%206/PI-GRUPO-6">Fatec SJC 2020-2 2º BD – Equipe 6</a></li>
+                <li><a href="https://github.com/GabrielSG20/Projeto_Integrador_2-Sem202">Fatec SJC 2020-2 2º BD – Equipe 1</a></li>
+                <li><a href="https://github.com/R4UOrg">Fatec SJC 2020-2 5º BD – Equipe 1</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/85-03BProjeto%20Integrador%20Fatec%20SJC%202020-2%203%C2%BA%20BD%20%E2%80%93%20Equipe%20Valcode">Fatec SJC 2020-2 3º BD – Equipe Valcode</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/86-Projeto%20Integrador%20Fatec%20SJC%202020-2%201%C2%BA%20BD%20%E2%80%93%20Equipe%202">Fatec SJC 2020-2 1º BD – Equipe 2</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/87-Projeto%20Integrador%20Fatec%20SJC%202020-2%202%C2%BA%20BD%20%E2%80%93%20Equipe%202/pi-fatec-java">Fatec SJC 2020-2 2º BD – Equipe 2</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/89-T%C3%ADtulo%20Projeto%20Integrador%20Fatec%20SJC%202020-2%205%C2%BA%20BD%20%E2%80%93%20Equipe%202/antenas-devops">Fatec SJC 2020-2 5º BD – Equipe 2</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/91-Projeto%20Integrador%20Fatec%20SJC%202020-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%204/bridges">Fatec SJC 2020-1 2º BD – Equipe 4</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/93-Projeto%20Integrador%20Fatec%20SJC%202020-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%202/visao-estrategica-de-projeto">Fatec SJC 2020-1 2º BD – Equipe 2</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/94-Projeto%20Integrador%20Fatec%20SJC%202020-1%205%C2%BA%20BD%20-%20Equipe%201/Antenas">Fatec SJC 2020-1 5º BD - Equipe 1</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/127-Projeto%20Integrador%20Fatec%20SJC%202020-1%205%C2%BA%20BD%20-%20Equipe%203/antenas-integracao">Fatec SJC 2020-1 5º BD - Equipe 3</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/124-Projeto%20Integrador%20Fatec%20SJC%202020-1%206%C2%BA%20BD/R4U_backend">Integrador Fatec SJC 2020-1 6º BD</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/123-Projeto%20Integrador%20Fatec%20SJC%202020-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%201">Fatec SJC 2020-1 2º BD – Equipe 1</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/116-Projeto%20Integrador%20Fatec%20SJC%202020-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%206/pi-phpython">Fatec SJC 2020-1 2º BD – Equipe 6</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/120-Projeto%20Integrador%20Fatec%20SJC%202020-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%207/projeto-integrador-2-sem.-2020">Fatec SJC 2020-1 2º BD – Equipe 7</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/121-Projeto%20Integrador%20Fatec%20SJC%202020-1%205%C2%BA%20BD%20-%20Equipe%205/antenas-integracao-master">Fatec SJC 2020-1 5º BD - Equipe 5</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/111-Projeto%20Integrador%20Fatec%20SJC%202020-1%205%C2%BA%20BD%20-%20Equipe%202/antenas-integracao">Fatec SJC 2020-1 5º BD - Equipe 2</a></li>
+                <li><a href="https://github.com/Grupo-4-Fatech/API-/tree/main/Clones%20do%20API/107-Projeto%20Integrador%20Fatec%20SJC%202020-1%202%C2%BA%20BD%20%E2%80%93%20Equipe%208">Fatec SJC 2020-1 2º BD – Equipe 8</a></li>
+                
+            
+            </ul>
+        </nav>
+        <script type="text/javascript" src="scripts.js"></script>
+        
+          
+    </body>
+    </html>
