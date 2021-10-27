@@ -1,0 +1,37 @@
+body{
+    font-family: Arial,;
+}
+*{
+    box-sizing: border-box;
+}
+nav{
+    width: 50% ;
+    padding: 15px 0px;
+    background-color: rgb(190, 184, 184);
+
+}
+nav  li a{
+    padding: 12px;
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+nav h2{
+    padding-left: 200px;
+}
+#pesquisa{
+    width: 80%;
+    font-size: 18px;
+    padding: 11px;
+    border: 1px solid rgb(94, 80, 80);
+
+}
+#menu{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+nav  li a:hover{
+    background-color: #eee;
+}
