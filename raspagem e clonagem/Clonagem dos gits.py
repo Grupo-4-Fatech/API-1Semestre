@@ -28,4 +28,4 @@ if __name__ == "__main__":
         gitclone = GitClone(links)
         gitclone.clone()
     except:
-        pass
+        pass    

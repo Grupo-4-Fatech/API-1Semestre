@@ -64,3 +64,7 @@ for yt in youtube:
 if lista:
     with open('links.txt', 'a') as file:
         file.writelines('\n'.join(lista))
+
+if youtube:
+    with open('links_yt.txt', 'a') as file:
+        file.writelines('\n'.join(youtube))
