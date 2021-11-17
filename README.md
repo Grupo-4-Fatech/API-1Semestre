@@ -25,7 +25,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 > <a href="https://equipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
 
 ## 📆 Cronograma das Sprints
-- [x] Kick-off do Projeto - 16/08/2021 a 22/08/2021
+-- [x] Kick-off do Projeto - 16/08/2021 a 22/08/2021
 - [x] Sprint 1 - 30/08/2021 a 19/09/2021
 - [x] Sprint 2 - 20/09/2021 a 10/10/2021
 - [x] Sprint 3 - 18/10/2021 a 07/11/2021
