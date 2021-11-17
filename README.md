@@ -20,23 +20,23 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [ ] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
 > Funcionalidades Extras
 - [ ] Manual de instalação em GIFs
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 ![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
 - **Back-end:** Phyton;
 - **Front-end:** HTML, CSS;
 - **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 
-## Metodologia
+## 💡 Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
 
-## Sprints Backlog
+## 🗒️ Sprints Backlog
 ![backlog CERTP (1)](https://user-images.githubusercontent.com/89141910/140399538-5b2252ee-843f-447b-ac33-6ced15f0e2cc.png)
 
 
 
-## Equipe
+## 👥 Equipe
 ![EQUIPE (1)](https://user-images.githubusercontent.com/89141910/134176440-9b88a19d-ddd9-48d7-a7fb-c6138a365366.gif)
 
 
@@ -48,19 +48,18 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 | Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> |
 | Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> |
 | Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
-| Gustavo Moura   | Desenvolvedor| <a href="https://github.com/gstvmoura" target="_blank">Github</a> |
-| Luiz Prado      | Desenvolvedor| <a href="" target="_blank">Github</a>
+
                                     
-## Website
+## 🖥️ Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](https://www.youtube.com/watch?v=IrxE4HeVXSc)
 
-## Raspagem de dados
+## ⚙️ Raspagem de dados
 ![raspagem](https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif)
 
-## Clonagem dos Gits
+## ⚙️ Clonagem dos Gits
 ![clonagem](https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif)
 
-## Gits Clonados
+## 🔒 Gits Clonados
 ![mostrando-os-arquivos](https://user-images.githubusercontent.com/89141910/136674366-fa581145-dfb6-466d-aeac-68e66b7cf0a6.gif)
 
 - A equipe fez a clonagem de apenas alguns gits aleatórios para efeito de demonstração.
