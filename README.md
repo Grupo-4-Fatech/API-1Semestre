@@ -15,11 +15,14 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [x] Layout do website em linguagem CSS. 
 - [x] Raspagem das URLs de API'S da FATEC SJC.
 - [x] Clonagem de cada repositório do GitHub de projetos anteriores da FATEC SJC.
-- [ ] Upload de todos os projetos no Github da Fatec SJC.
+- [x] Upload de todos os projetos no Github da Fatec SJC.
 - [x] As pastas seguem a organização por curso, semestre, ano e turma.
 - [ ] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
 > Funcionalidades Extras
 - [ ] Manual de instalação em GIFs
+**🔗 Clique no link abaixo para visualizar o modelo do site**
+> Protótipo do Site
+
 ## 💻 Tecnologias Utilizadas
 ![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
 - **Back-end:** Phyton;
