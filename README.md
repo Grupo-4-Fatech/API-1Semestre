@@ -20,6 +20,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [ ] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
 > Funcionalidades Extras
 - [ ] Manual de instalação em GIFs
+
 **🔗 Clique no link abaixo para visualizar o modelo do site**
 > Protótipo do Site
 
