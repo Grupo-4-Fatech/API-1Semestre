@@ -22,7 +22,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [ ] Manual de instalação em GIFs
 
 🔗 **Clique no link abaixo para visualizar o modelo do site**
-> <a href="https:" target="_blank">Protótipo do Site</a>
+> <a href="https://equipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
 
 ## 💻 Tecnologias Utilizadas
 ![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
