@@ -34,9 +34,10 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - - [ ] **Feira de soluções** - 16/12/2021   
 
 ## 💻 Tecnologias Utilizadas
-![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
+![tecnologias_](https://user-images.githubusercontent.com/89141910/142216674-639552c3-d3bc-4b0a-acd8-bff90f3d93a0.png)
+
 - **Back-end:** Phyton;
-- **Front-end:** HTML, CSS;
+- **Front-end:** HTML, CSS, JavaScript;
 - **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 
 ## 💡 Metodologia
