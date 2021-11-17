@@ -21,7 +21,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 > Funcionalidades Extras
 - [ ] Manual de instalação em GIFs
 
-**🔗 Clique no link abaixo para visualizar o modelo do site**
+🔗 **Clique no link abaixo para visualizar o modelo do site**
 > Protótipo do Site
 
 ## 💻 Tecnologias Utilizadas
