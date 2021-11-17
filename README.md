@@ -45,16 +45,12 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
 
-
-
-
 ## 🗒️ Sprints Backlog
 ![backlog CERTP (1)](https://user-images.githubusercontent.com/89141910/140399538-5b2252ee-843f-447b-ac33-6ced15f0e2cc.png)
 
-
-
 ## 👥 Equipe
-https://user-images.githubusercontent.com/89141910/142216949-9604724f-778d-42c6-b8dc-effb472a4259.mp4
+![EQUIPE](https://user-images.githubusercontent.com/89141910/142217615-4e697568-72d9-4def-93c6-c7ef42ba4fdd.gif)
+
 
 | Nome            | Função       | GitHub                                                       |
 |-----------------|--------------|--------------------------------------------------------------|
