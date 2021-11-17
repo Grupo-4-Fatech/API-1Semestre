@@ -36,8 +36,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ## 💻 Tecnologias Utilizadas
 ![tecnologias_](https://user-images.githubusercontent.com/89141910/142216674-639552c3-d3bc-4b0a-acd8-bff90f3d93a0.png)
 
-- **Back-end:** Phyton;
-- **Front-end:** HTML, CSS, JavaScript;
+- **Back-end:** Phyton, JavaScript;
+- **Front-end:** HTML, CSS;
 - **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 
 ## 💡 Metodologia
