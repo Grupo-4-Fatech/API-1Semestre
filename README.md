@@ -17,7 +17,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [x] Clonagem de cada repositório do GitHub de projetos anteriores da FATEC SJC.
 - [x] Upload de todos os projetos no Github da Fatec SJC.
 - [x] As pastas seguem a organização por curso, semestre, ano e turma.
-- [ ] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
+- [x] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
 > Funcionalidades Extras
 - [ ] Manual de instalação em GIFs
 
