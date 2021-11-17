@@ -51,9 +51,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 
 
 ## 👥 Equipe
-![EQUIPE (1)](https://user-images.githubusercontent.com/89141910/134176440-9b88a19d-ddd9-48d7-a7fb-c6138a365366.gif)
-
-
+https://user-images.githubusercontent.com/89141910/142216949-9604724f-778d-42c6-b8dc-effb472a4259.mp4
 
 | Nome            | Função       | GitHub                                                       |
 |-----------------|--------------|--------------------------------------------------------------|
