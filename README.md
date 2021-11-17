@@ -24,6 +24,14 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 🔗 **Clique no link abaixo para visualizar o modelo do site**
 > <a href="https://equipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
 
+## 📆 Cronograma das Sprints
+- [x] Kick-off do Projeto - 16/08/2021 a 22/08/2021
+- [x] Sprint 1 - 30/08/2021 a 19/09/2021
+- [x] Sprint 2 - 20/09/2021 a 10/10/2021
+- [x] Sprint 3 - 18/10/2021 a 07/11/2021
+- [ ] Sprint 4 - 08/11/2021 a 28/11/2021
+- [ ] Apresentação final - 29/11/2021 a 05/12/2021
+- [ ] Feira de soluções - 16/12/2021   
 ## 💻 Tecnologias Utilizadas
 ![tecnologias](https://user-images.githubusercontent.com/89141910/133864608-e49ee177-edb7-4986-bee2-7162a4383233.png)
 - **Back-end:** Phyton;
