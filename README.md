@@ -79,7 +79,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ㅤ
 </br>
 
-## ⚙️ Versão Beta
+## ⚙️ Protótipo - Versão Beta
 ### Raspagem de Dados
 </br>
 
@@ -141,6 +141,9 @@ Passo 4: Clique duas vezes no tipo 'Python file' nome: 'Clonagem dos gits' </br>
 Passo 5: Criará uma pasta chamada 'git_clonados' em seguida, entre na mesma. </br>
 Passo 6: O processo demora cerca de 5 a 10 minutos. </br>
 Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
+
+
+
 
 <h1 align="center"> <img src = "imagens/logo fatec.png" height="90" /></h1>
 
