@@ -90,7 +90,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 <br></br>
 ## 📕 Manual de Instalação
 ### Instalação do Python
-> *Nota: Para utilizar o progama autonomo primeiro é necessario instalar a linguagem de programação python*
+> *Nota: Para utilizar o progama autonomo primeiro é necessario instalar a linguagem de programação python*<
 Passo 1: Vá para o site do <a href="https://www.python.org/downloads/'" target="_blank">Python</a>'
 Passo 2: Baixe a versão mais atualizadado site.
 Passo 3: Inicie o instalador do python.
