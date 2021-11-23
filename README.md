@@ -76,7 +76,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 <br></br>
 ## ⚙️ Versão Beta
 - **Raspagem de Dados**
-- <br></br>
+<br></br>
 ![raspagem](https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif)
 <br></br>
 - **Clonagem dos Gits**
