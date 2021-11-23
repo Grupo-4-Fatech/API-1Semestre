@@ -121,6 +121,8 @@ Passo 6: PRONTO! programa instalado.</br>
 
 ![CMD passo 2](https://user-images.githubusercontent.com/89141910/143087610-3168cc12-0bd1-4af6-bad4-b7a9b9acd216.gif)
 
+</br>
+
 ## 📗 Manual do Usuário
 ### Raspagem dos Links
 Passo 1: Entre na pasta 'GitsClonados.exe'</br>
