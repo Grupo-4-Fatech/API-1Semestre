@@ -1,7 +1,7 @@
 # API- Projeto Integrador 1º Semestre ADS - Grupo Fatech 
 GitLab para desenvolvimento do Projeto Integrador do 1º Semestre - Analise e desenvolvimeto de sistemas FATEC SJC
-Projeto fatec - automatização do GitHub
-<br></br>
+Projeto Fatec - Automatização do GitHub
+<br />
 
 ## O Projeto
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
@@ -9,7 +9,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ![OBJETIVO](https://user-images.githubusercontent.com/89141910/133865425-8d18f61f-58ca-47b7-aa87-578c0a00e168.png)
 > Status do Projeto: Em andamento.
 ㅤ
-<br></br>
+<br />
 ## 🎯 Proposta
 **Desenvolver a automação de clonagem com os seguintes requisitos:**
 > Requisitos
@@ -38,7 +38,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - - [ ] **Apresentação final** - 29/11/2021 a 05/12/2021
 - - [ ] **Feira de soluções** - 16/12/2021   
 ㅤ
-<br></br>
+<br />
 ## 💻 Tecnologias Utilizadas
 ![tecnologias_](https://user-images.githubusercontent.com/89141910/142216674-639552c3-d3bc-4b0a-acd8-bff90f3d93a0.png)
 
@@ -46,17 +46,17 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - **Front-end:** HTML, CSS;
 - **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 ㅤ
-<br></br>ㅤ
+<br />ㅤ
 ## 💡 Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
 ㅤ
-<br></br>
+<br />
 ## 🗒️ Sprints Backlog
 ![backlog CERTP (1)](https://user-images.githubusercontent.com/89141910/140399538-5b2252ee-843f-447b-ac33-6ced15f0e2cc.png)
 ㅤ
-<br></br>ㅤ
+<br />ㅤ
 ## 👥 Equipe
 ![EQUIPE](https://user-images.githubusercontent.com/89141910/142217615-4e697568-72d9-4def-93c6-c7ef42ba4fdd.gif)
 
@@ -73,33 +73,29 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ## 🖥️ Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](https://www.youtube.com/watch?v=IrxE4HeVXSc)
 ㅤ
-<br></br>
+<br />
 ## ⚙️ Versão Beta
 - **Raspagem de Dados**
-<br></br>
+<br />
 ![raspagem](https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif)
-<br></br>
+<br />
 - **Clonagem dos Gits**
-<br></br>
+<br />
 ![clonagem](https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif)
-<br></br>
+<br />
 - **Gits Clonados**
-<br></br>
+<br />
 ![mostrando-os-arquivos](https://user-images.githubusercontent.com/89141910/136674366-fa581145-dfb6-466d-aeac-68e66b7cf0a6.gif)
 > *A equipe fez a clonagem de apenas alguns gits aleatórios para efeito de demonstração.*
-<br></br>
+<br />
 ## 📕 Manual de Instalação
 ### Instalação do Python
 > *Nota: Para utilizar o progama autonomo primeiro é necessario instalar a linguagem de programação python*
 <br />
 Passo 1: Vá para o site do <a href="https://www.python.org/downloads/" target="_blank">Python.</a>
-
 Passo 2: Baixe a versão mais atualizadado site.
-
 Passo 3: Inicie o instalador do python.
-
 Passo 4: Selecione o add python to PATH.
-
 Passo 5: E termine de instalar o pyhton.
 ---gif---
 
