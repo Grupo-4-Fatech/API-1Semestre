@@ -93,7 +93,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 > *Nota: Para utilizar o progama autonomo primeiro é necessario instalar a linguagem de programação python*
 <br></br>
 
-Passo 1: Vá para o site do <a href="https://www.python.org/downloads/" target="_blank">Python</a>
+Passo 1: Vá para o site do <a href="https://www.python.org/downloads/" target="_blank">Python.</a>
 
 Passo 2: Baixe a versão mais atualizadado site.
 
@@ -102,3 +102,12 @@ Passo 3: Inicie o instalador do python.
 Passo 4: Selecione o add python to PATH.
 
 Passo 5: E termine de instalar o pyhton.
+---gif---
+
+### Instalação CMD
+Passo 1: Entre no menu Windows.
+Passo 2: Selecione a barra de pesquisa.
+Passo 3: Escreva  'CMD', e em seguida aperte 'ENTER'
+Passo 4: Após ser aberto o programa digite 'pip install gitpython'
+Passo 5: Depois aperte 'ENTER' e espere carregar.
+-PRONTO! programa instalado.
