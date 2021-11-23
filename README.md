@@ -80,19 +80,19 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 </br>
 
 ## ⚙️ Versão Beta
-- **Raspagem de Dados**
+### Raspagem de Dados
 </br>
 
 ![raspagem](https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif)
 </br>
 
-- **Clonagem dos Gits**
+### Clonagem dos Gits
 </br>
 
 ![clonagem](https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif)
 </br>
 
-- **Gits Clonados**
+### Gits Clonados
 </br>
 
 ![mostrando-os-arquivos](https://user-images.githubusercontent.com/89141910/136674366-fa581145-dfb6-466d-aeac-68e66b7cf0a6.gif)
