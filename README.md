@@ -2,7 +2,6 @@
 GitLab para desenvolvimento do Projeto Integrador do 1º Semestre - Analise e desenvolvimeto de sistemas FATEC SJC
 Projeto fatec - automatização do GitHub
 <br></br>
-<br></br>
 
 ## O Projeto
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
