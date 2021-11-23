@@ -87,3 +87,12 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 <br></br>
 ![mostrando-os-arquivos](https://user-images.githubusercontent.com/89141910/136674366-fa581145-dfb6-466d-aeac-68e66b7cf0a6.gif)
 > *A equipe fez a clonagem de apenas alguns gits aleatórios para efeito de demonstração.*
+<br></br>
+## 📕 Manual de Instalação
+### Instalação do Python
+> *Nota: Para utilizar o progama autonomo primeiro é necessario instalar a linguagem de programação python*
+Passo 1: Vá para o site do <a href="https://www.python.org/downloads/'" target="_blank">Python</a>'
+Passo 2: Baixe a versão mais atualizadado site.
+Passo 3: Inicie o instalador do python.
+Passo 4: Selecione o add python to PATH.
+Passo 5: E termine de instalar o pyhton.
