@@ -5,7 +5,7 @@ Projeto Fatec - Automatização do GitHub
 
 ## O Projeto
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
-ㅤㅤ
+<br />
 ![OBJETIVO](https://user-images.githubusercontent.com/89141910/133865425-8d18f61f-58ca-47b7-aa87-578c0a00e168.png)
 > Status do Projeto: Em andamento.
 ㅤ
