@@ -104,7 +104,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 > *Nota: Para utilizar o progama autonomo primeiro é necessario instalar a linguagem de programação python*
 </br>
 
-*Passo 1:* Vá para o site do <a href="https://www.python.org/downloads/" target="_blank">Python.</a> </br>
+Passo 1: Vá para o site do <a href="https://www.python.org/downloads/" target="_blank">Python.</a> </br>
 Passo 2: Baixe a versão mais atualizadado site.</br>
 Passo 3: Inicie o instalador do python.</br>
 Passo 4: Selecione o add python to PATH.</br>
@@ -112,9 +112,19 @@ Passo 5: E termine de instalar o pyhton.</br>
 ---gif---
 
 ### Instalação CMD
-Passo 1: Entre no menu Windows.
-Passo 2: Selecione a barra de pesquisa.
-Passo 3: Escreva  'CMD', e em seguida aperte 'ENTER'
-Passo 4: Após ser aberto o programa digite 'pip install gitpython'
-Passo 5: Depois aperte 'ENTER' e espere carregar.
--PRONTO! programa instalado.
+Passo 1: Entre no menu Windows.</br>
+Passo 2: Selecione a barra de pesquisa.</br>
+Passo 3: Escreva  'CMD', e em seguida aperte 'ENTER'</br>
+Passo 4: Após ser aberto o programa digite 'pip install gitpython'</br>
+Passo 5: Depois aperte 'ENTER' e espere carregar.</br>
+Passo 6: PRONTO! programa instalado.</br>
+![CMD passo 2](https://user-images.githubusercontent.com/89141910/143087610-3168cc12-0bd1-4af6-bad4-b7a9b9acd216.gif)
+
+## 📗 Manual do Usuário
+### Raspagem dos Links
+Passo 1: Entre na pasta 'GitsClonados.exe'</br>
+Passo 2: Entre na pasta 'dist'.</br>
+Passo 3: Clique duas vezes no icone 'RASPAGEM DOS LINKS' e espere de 1 a 5 minutos.</br>
+Passo 4: Depois de finalizado o programa criara dois arquivos txt. com os links do github e youtube de cada projeto, é fundamental os arquivos para prosseguir com o próximo passo.</br>
+
+![Raspagem dos links - passo 1](https://user-images.githubusercontent.com/89141910/143088395-08c4ece1-9bf0-4833-b2b7-b711c683a105.gif)
