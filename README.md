@@ -131,3 +131,15 @@ Passo 3: Clique duas vezes no icone 'RASPAGEM DOS LINKS' e espere de 1 a 5 minut
 Passo 4: Depois de finalizado o programa criara dois arquivos txt. com os links do github e youtube de cada projeto, é fundamental os arquivos para prosseguir com o próximo passo.</br>
 
 ![Raspagem dos links - passo 1](https://user-images.githubusercontent.com/89141910/143088395-08c4ece1-9bf0-4833-b2b7-b711c683a105.gif)
+
+</br>
+
+### Clonagem dos Gits
+Passo 1: Após o primeiro passo NÃO EXCLUA E NEM MOVA OS ARQUIVOS 'links' e 'links_yt'.
+Passo 2: Mova o aquivo 'Clonagem dos gits' para a pasta 'dist'
+Passo 3: Depois entre na pasta 'dist'
+Passo 4: Clique duas vezes no tipo 'Pytohn file' nome 'Clonagem dos gits'
+Passo 5: Criará uma pasta chamada 'git_clonados' entre na mesma
+Passo 6: O processo demora cerca de 5 a 10 minutos
+Passo 7: Pronto! os gits estarão clonados nessa pasta.
+
