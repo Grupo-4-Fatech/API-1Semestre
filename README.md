@@ -3,7 +3,8 @@ GitLab para desenvolvimento do Projeto Integrador do 1º Semestre - Analise e de
 Projeto fatec - automatização do GitHub
 ## O Projeto
 Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Esse grupo tem como objetivo desenvolver um projeto (API) para solucionar um problema proposto por um cliente parceiro da instituição.
-
+ㅤㅤ
+ㅤ
 ![OBJETIVO](https://user-images.githubusercontent.com/89141910/133865425-8d18f61f-58ca-47b7-aa87-578c0a00e168.png)
 > Status do Projeto: Em andamento.
 ## 🎯 Proposta
@@ -23,7 +24,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 
 🔗 **Clique no link abaixo para visualizar o modelo do site**
 > <a href="https://apiequipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
-
+ㅤ
+ㅤ
 ## 📆 Cronograma das Sprints
 - - [x] **Kick-off do Projeto** - 16/08/2021 a 22/08/2021
 - - [x] **Sprint 1** - 30/08/2021 a 19/09/2021
@@ -32,22 +34,30 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - - [ ] **Sprint 4** - 08/11/2021 a 28/11/2021
 - - [ ] **Apresentação final** - 29/11/2021 a 05/12/2021
 - - [ ] **Feira de soluções** - 16/12/2021   
-
+ㅤ
+ㅤ
+ㅤ
 ## 💻 Tecnologias Utilizadas
 ![tecnologias_](https://user-images.githubusercontent.com/89141910/142216674-639552c3-d3bc-4b0a-acd8-bff90f3d93a0.png)
 
 - **Back-end:** Phyton, JavaScript;
 - **Front-end:** HTML, CSS;
 - **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
-
+ㅤ
+ㅤ
+ㅤ
 ## 💡 Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
 
 ![metologia](https://user-images.githubusercontent.com/67170978/133004767-aeb05f5d-60ed-49c3-b245-b28ea33755fa.png)
-
+ㅤ
+ㅤ
+ㅤ
 ## 🗒️ Sprints Backlog
 ![backlog CERTP (1)](https://user-images.githubusercontent.com/89141910/140399538-5b2252ee-843f-447b-ac33-6ced15f0e2cc.png)
-
+ㅤ
+ㅤ
+ㅤ
 ## 👥 Equipe
 ![EQUIPE](https://user-images.githubusercontent.com/89141910/142217615-4e697568-72d9-4def-93c6-c7ef42ba4fdd.gif)
 
@@ -64,12 +74,19 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ## 🖥️ Website
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Za4CrqMQb38/0.jpg).](https://www.youtube.com/watch?v=IrxE4HeVXSc)
 
+ㅤ
+ㅤ
+ㅤ
 ## ⚙️ Raspagem de dados
 ![raspagem](https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif)
-
+ㅤ
+ㅤ
+ㅤ
 ## ⚙️ Clonagem dos Gits
 ![clonagem](https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif)
-
+ㅤ
+ㅤ
+ㅤ
 ## 🔒 Gits Clonados
 ![mostrando-os-arquivos](https://user-images.githubusercontent.com/89141910/136674366-fa581145-dfb6-466d-aeac-68e66b7cf0a6.gif)
 
