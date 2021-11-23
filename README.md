@@ -131,7 +131,6 @@ Passo 3: Clique duas vezes no icone 'RASPAGEM DOS LINKS' e espere de 1 a 5 minut
 Passo 4: Depois de finalizado o programa criara dois arquivos txt. com os links do github e youtube de cada projeto, é fundamental os arquivos para prosseguir com o próximo passo.</br>
 
 ![Raspagem dos links - passo 1](https://user-images.githubusercontent.com/89141910/143088395-08c4ece1-9bf0-4833-b2b7-b711c683a105.gif)
-
 </br>
 
 ### Clonagem dos Gits
