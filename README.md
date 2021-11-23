@@ -118,6 +118,7 @@ Passo 3: Escreva  'CMD', e em seguida aperte 'ENTER'</br>
 Passo 4: Após ser aberto o programa digite 'pip install gitpython'</br>
 Passo 5: Depois aperte 'ENTER' e espere carregar.</br>
 Passo 6: PRONTO! programa instalado.</br>
+
 ![CMD passo 2](https://user-images.githubusercontent.com/89141910/143087610-3168cc12-0bd1-4af6-bad4-b7a9b9acd216.gif)
 
 ## 📗 Manual do Usuário
