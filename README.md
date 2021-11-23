@@ -105,7 +105,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 </br>
 
 Passo 1: Vá para o site do <a href="https://www.python.org/downloads/" target="_blank">Python.</a> </br>
-Passo 2: Baixe a versão mais atualizadado site.</br>
+Passo 2: Baixe a versão mais atualizada do site.</br>
 Passo 3: Inicie o instalador do python.</br>
 Passo 4: Selecione o add python to PATH.</br>
 Passo 5: E termine de instalar o pyhton.</br>
@@ -117,7 +117,7 @@ Passo 2: Selecione a barra de pesquisa.</br>
 Passo 3: Escreva  'CMD', e em seguida aperte 'ENTER'</br>
 Passo 4: Após ser aberto o programa digite 'pip install gitpython'</br>
 Passo 5: Depois aperte 'ENTER' e espere carregar.</br>
-Passo 6: PRONTO! programa instalado.</br>
+Passo 6: PRONTO! Programa instalado.</br>
 
 ![CMD passo 2](https://user-images.githubusercontent.com/89141910/143087610-3168cc12-0bd1-4af6-bad4-b7a9b9acd216.gif)
 
@@ -127,18 +127,18 @@ Passo 6: PRONTO! programa instalado.</br>
 ### Raspagem dos Links
 Passo 1: Entre na pasta 'GitsClonados.exe'</br>
 Passo 2: Entre na pasta 'dist'.</br>
-Passo 3: Clique duas vezes no icone 'RASPAGEM DOS LINKS' e espere de 1 a 5 minutos.</br>
-Passo 4: Depois de finalizado o programa criara dois arquivos txt. com os links do github e youtube de cada projeto, é fundamental os arquivos para prosseguir com o próximo passo.</br>
+Passo 3: Clique duas vezes no ícone 'RASPAGEM DOS LINKS' e espere de 1 a 5 minutos.</br>
+Passo 4: Depois de finalizado, o programa criará dois arquivos txt. com os links do github e youtube de cada projeto, é fundamental esses arquivos para prosseguir com o próximo passo.</br>
 
 ![Raspagem dos links - passo 1](https://user-images.githubusercontent.com/89141910/143088395-08c4ece1-9bf0-4833-b2b7-b711c683a105.gif)
 </br>
 
 ### Clonagem dos Gits
-Passo 1: Após o primeiro passo NÃO EXCLUA E NEM MOVA OS ARQUIVOS 'links' e 'links_yt'.
-Passo 2: Mova o aquivo 'Clonagem dos gits' para a pasta 'dist'
-Passo 3: Depois entre na pasta 'dist'
-Passo 4: Clique duas vezes no tipo 'Pytohn file' nome 'Clonagem dos gits'
-Passo 5: Criará uma pasta chamada 'git_clonados' entre na mesma
-Passo 6: O processo demora cerca de 5 a 10 minutos
-Passo 7: Pronto! os gits estarão clonados nessa pasta.
+Passo 1: Após a raspagem NÃO EXCLUA E NEM MOVA OS ARQUIVOS 'links' e 'links_yt'. </br>
+Passo 2: Mova o arquivo 'Clonagem dos gits' para a pasta 'dist' </br>
+Passo 3: Depois entre na pasta 'dist' </br>
+Passo 4: Clique duas vezes no tipo 'Python file' nome: 'Clonagem dos gits' </br>
+Passo 5: Criará uma pasta chamada 'git_clonados' em seguida, entre na mesma. </br>
+Passo 6: O processo demora cerca de 5 a 10 minutos. </br>
+Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 
