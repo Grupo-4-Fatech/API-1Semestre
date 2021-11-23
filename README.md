@@ -60,18 +60,6 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ![backlog CERTP (1)](https://user-images.githubusercontent.com/89141910/140399538-5b2252ee-843f-447b-ac33-6ced15f0e2cc.png)
 ㅤ
 </br>
-ㅤ
-## 👥 Equipe
-![EQUIPE](https://user-images.githubusercontent.com/89141910/142217615-4e697568-72d9-4def-93c6-c7ef42ba4fdd.gif)
-
-
-| Nome            | Função       | GitHub                                                       |
-|-----------------|--------------|--------------------------------------------------------------|
-| Dionísio Leão   | Scrum Master | <a href="https://github.com/dsslleagion" target="_blank">Github</a> |
-| André Ribeiro   | Desenvolvedor| <a href="https://github.com/New-Tomorrow" target="_blank">Github</a> |
-| Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> |
-| Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> |
-| Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
 
                                     
 ## 🖥️ Website
@@ -142,6 +130,20 @@ Passo 5: Criará uma pasta chamada 'git_clonados' em seguida, entre na mesma. </
 Passo 6: O processo demora cerca de 5 a 10 minutos. </br>
 Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 
+
+<br>
+
+## 👥 Equipe
+![EQUIPE](https://user-images.githubusercontent.com/89141910/142217615-4e697568-72d9-4def-93c6-c7ef42ba4fdd.gif)
+
+
+| Nome            | Função       | GitHub                                                       |
+|-----------------|--------------|--------------------------------------------------------------|
+| Dionísio Leão   | Scrum Master | <a href="https://github.com/dsslleagion" target="_blank">Github</a> |
+| André Ribeiro   | Desenvolvedor| <a href="https://github.com/New-Tomorrow" target="_blank">Github</a> |
+| Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> |
+| Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> |
+| Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
 
 <br>
 
