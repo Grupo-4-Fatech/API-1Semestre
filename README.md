@@ -48,7 +48,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord.
 ㅤ
 </br>
-ㅤ
+
 ## 💡 Metodologia
 <ul> <li> <strong>Metodologia Ágil: SCRUM </strong> </li> </ul>
 
