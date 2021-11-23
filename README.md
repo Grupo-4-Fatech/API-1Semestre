@@ -22,7 +22,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [ ] Manual de instalação em GIFs
 
 🔗 **Clique no link abaixo para visualizar o modelo do site**
-> <a href="https://equipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
+> <a href="https://apiequipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
 
 ## 📆 Cronograma das Sprints
 - - [x] **Kick-off do Projeto** - 16/08/2021 a 22/08/2021
