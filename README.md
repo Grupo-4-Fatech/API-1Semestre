@@ -131,6 +131,7 @@ Passo 5: Criará uma pasta chamada 'git_clonados' em seguida, entre na mesma. </
 Passo 6: O processo demora cerca de 5 a 10 minutos. </br>
 Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 
+---gif---
 
 <br>
 
