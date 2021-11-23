@@ -9,7 +9,6 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 ![OBJETIVO](https://user-images.githubusercontent.com/89141910/133865425-8d18f61f-58ca-47b7-aa87-578c0a00e168.png)
 > Status do Projeto: Em andamento.
 
-<br></br>
 ## 🎯 Proposta
 **Desenvolver a automação de clonagem com os seguintes requisitos:**
 > Requisitos
