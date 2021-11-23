@@ -23,7 +23,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - [x] As pastas seguem a organização por curso, semestre, ano e turma.
 - [x] Geração de um código para a incorporação na página da Fatec SJC contendo a indexação de todos os projetos.
 > Funcionalidades Extras
-- [ ] Manual de instalação em GIFs
+- [X] Manual de instalação em GIFs
 
 🔗 **Clique no link abaixo para visualizar o modelo do site**
 > <a href="https://apiequipefatech.netlify.app/" target="_blank">Protótipo do Site</a>
@@ -34,7 +34,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - - [x] **Sprint 1** - 30/08/2021 a 19/09/2021
 - - [x] **Sprint 2** - 20/09/2021 a 10/10/2021
 - - [x] **Sprint 3** - 18/10/2021 a 07/11/2021
-- - [ ] **Sprint 4** - 08/11/2021 a 28/11/2021
+- - [X] **Sprint 4** - 08/11/2021 a 28/11/2021
 - - [ ] **Apresentação final** - 29/11/2021 a 05/12/2021
 - - [ ] **Feira de soluções** - 16/12/2021   
 ㅤ
