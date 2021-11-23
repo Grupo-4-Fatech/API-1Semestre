@@ -142,6 +142,6 @@ Passo 5: Criará uma pasta chamada 'git_clonados' em seguida, entre na mesma. </
 Passo 6: O processo demora cerca de 5 a 10 minutos. </br>
 Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 
-<h1 align="center"> <img src = ""/imagens/logo fatec.png" height="90" /></h1>
+<h1 align="center"> <img src = "imagens/logo fatec.png" height="90" /></h1>
 
-<h5 align="center"> <img src = ""/imagens/fatec.png" width="20" height="20" /> Projeto Integrador - Fatec São José dos Campos </h5>
+<h5 align="center"> <img src = "imagens/fatec.png" width="20" height="20" /> Projeto Integrador - Fatec São José dos Campos </h5>
