@@ -97,7 +97,7 @@ Passo 2: Baixe a versão mais atualizada do site.</br>
 Passo 3: Inicie o instalador do python.</br>
 Passo 4: Selecione o add python to PATH.</br>
 Passo 5: E termine de instalar o pyhton.</br>
----gif---
+![Instalação do python](https://user-images.githubusercontent.com/89141910/143243251-1756fc46-7e49-465d-b8ba-c2d0153c6bb1.gif)
 
 ### Instalação CMD
 Passo 1: Entre no menu Windows.</br>
@@ -105,7 +105,7 @@ Passo 2: Selecione a barra de pesquisa.</br>
 Passo 3: Escreva  'CMD', e em seguida aperte 'ENTER'</br>
 Passo 4: Após ser aberto o programa digite 'pip install gitpython'</br>
 Passo 5: Depois aperte 'ENTER' e espere carregar.</br>
-Passo 6: PRONTO! Programa instalado.</br>
+Passo 6: PRONTO! Biblioteca instalado.</br>
 
 ![CMD passo 2](https://user-images.githubusercontent.com/89141910/143087610-3168cc12-0bd1-4af6-bad4-b7a9b9acd216.gif)
 
@@ -131,7 +131,7 @@ Passo 5: Criará uma pasta chamada 'git_clonados' em seguida, entre na mesma. </
 Passo 6: O processo demora cerca de 5 a 10 minutos. </br>
 Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 
----gif---
+![Gitclonagem](https://user-images.githubusercontent.com/89141910/143243293-bb171a3d-abbd-4448-8867-288253f0a3c0.gif)
 
 <br>
 
