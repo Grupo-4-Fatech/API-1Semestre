@@ -97,6 +97,7 @@ Passo 2: Baixe a versão mais atualizada do site.</br>
 Passo 3: Inicie o instalador do python.</br>
 Passo 4: Selecione o add python to PATH.</br>
 Passo 5: E termine de instalar o pyhton.</br>
+
 ![Instalação do python](https://user-images.githubusercontent.com/89141910/143243251-1756fc46-7e49-465d-b8ba-c2d0153c6bb1.gif)
 
 ### Instalação CMD
