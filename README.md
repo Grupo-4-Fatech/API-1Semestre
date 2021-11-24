@@ -144,7 +144,7 @@ Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 |-----------------|--------------|--------------------------------------------------------------|----------|
 | Dionísio Leão   | Scrum Master | <a href="https://github.com/dsslleagion" target="_blank">Github</a> |<a href="https://www.linkedin.com/in/dionisio-samuel-dos-santos-le%C3%A3o-616848226/" target="_blank">Link</a>|
 | André Ribeiro   | Desenvolvedor| <a href="https://github.com/New-Tomorrow" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/andre-ramos-ribeiro-320621226/" target="_blank">Link</a>|
-| Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> | <a href=" " target="_blank">Link</a>|
+| Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/antonio-marcelo-9a5b68181" target="_blank">Link</a>|
 | Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/bruna-dias-977b611b9/" target="_blank">Link</a>|
 | Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/gabriel-silva-b778a31aa" target="_blank">Link</a>|
 
