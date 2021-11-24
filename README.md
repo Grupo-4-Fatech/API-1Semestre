@@ -140,12 +140,12 @@ Passo 7: Pronto! os gits estarão clonados nessa pasta. </br>
 ![EQUIPE](https://user-images.githubusercontent.com/89141910/142217615-4e697568-72d9-4def-93c6-c7ef42ba4fdd.gif)
 
 
-| Nome            | Função       | GitHub                                                       |
-|-----------------|--------------|--------------------------------------------------------------|
-| Dionísio Leão   | Scrum Master | <a href="https://github.com/dsslleagion" target="_blank">Github</a> |
+| Nome            | Função       | GitHub                                                       | Linkedin |
+|-----------------|--------------|--------------------------------------------------------------|----------|
+| Dionísio Leão   | Scrum Master | <a href="https://github.com/dsslleagion" target="_blank">Github</a> | 
 | André Ribeiro   | Desenvolvedor| <a href="https://github.com/New-Tomorrow" target="_blank">Github</a> |
 | Antônio Barbosa | Desenvolvedor| <a href="https://github.com/Antonio-Barbosa" target="_blank">Github</a> |
-| Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> |
+| Bruna Dias      | Desenvolvedor| <a href="https://github.com/brunadias3" target="_blank">Github</a> | <a href="www.linkedin.com/in/bruna-dias3" target="_blank">Link</a> |
 | Gabriel Coutinho| Desenvolvedor| <a href="https://github.com/Gabriel-Coutinho0" target="_blank">Github</a> |
 
 <br>
