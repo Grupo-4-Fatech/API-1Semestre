@@ -63,7 +63,7 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 
                                     
 ## 🖥️ Website
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=y28qmqFXiQk)
+> <a href="https://www.youtube.com/watch?v=y28qmqFXiQk" target="_blank">Vídeo do Youtube</a>
 ㅤ
 </br>
 
