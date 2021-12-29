@@ -35,8 +35,8 @@ Olá, muito prazer! Nós somos o grupo Fatech um time de alunos do 1° semestre 
 - - [x] **Sprint 2** - 20/09/2021 a 10/10/2021
 - - [x] **Sprint 3** - 18/10/2021 a 07/11/2021
 - - [X] **Sprint 4** - 08/11/2021 a 28/11/2021
-- - [ ] **Apresentação final** - 29/11/2021 a 05/12/2021
-- - [ ] **Feira de soluções** - 16/12/2021   
+- - [X] **Apresentação final** - 29/11/2021 a 05/12/2021
+- - [X] **Feira de soluções** - 16/12/2021   
 ㅤ
 </br>
 
